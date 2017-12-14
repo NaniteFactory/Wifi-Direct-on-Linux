@@ -2,7 +2,7 @@
 
 # wifid
 
-리눅스에서 와이파이 다이렉트 연결 설정하기
+Set up a Wi-Fi Direct connection on Linux
 
 ## WiFi Direct on Linux
 
@@ -29,5 +29,6 @@ which are to enable P2P device connectivity and become an autonomous GO, as the 
 ## ref
 http://processors.wiki.ti.com/index.php/WiFi_Direct_Configuration_Scripts
 http://processors.wiki.ti.com/index.php/OMAP_Wireless_Connectivity_NLCP_WiFi_Direct_Configuration_Scripts
+https://www.freebsd.org/cgi/man.cgi?wpa_cli
 
 * * *
